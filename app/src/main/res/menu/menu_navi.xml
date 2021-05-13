@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main_screen"
+        android:title="@string/main_screen"
+        android:icon="@drawable/patient_selector"
+        />
+    <item android:id="@+id/ecg_record"
+        android:title="@string/ecg_record"
+        android:icon="@drawable/ecg_selector"
+        />
+    <item android:id="@+id/history"
+        android:title="@string/history"
+        android:icon="@drawable/history_selector"
+        />
+
+</menu>

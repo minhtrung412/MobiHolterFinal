@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829247593077",
+    "project_id": "mobiholterfinal",
+    "storage_bucket": "mobiholterfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829247593077:android:7cbdf3c52d8078142a763c",
+        "android_client_info": {
+          "package_name": "com.example.mobiholterfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829247593077-r43bjrijlcff4jlkd0peelgcsb2phde6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobiholterfinal",
+            "certificate_hash": "405c088fa06af8b01366ae22f14024cbb6a24d54"
+          }
+        },
+        {
+          "client_id": "829247593077-39aff3eh3o00mp6o559dbjprv5kg6aj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9NNnyO4kBSdBSejGgVo-vD4jNziC49k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829247593077-39aff3eh3o00mp6o559dbjprv5kg6aj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

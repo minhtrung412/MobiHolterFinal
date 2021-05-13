@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobiHolterFinal</string>
+    <string name="ecg_record">ECG</string>
+    <string name="main_screen">Patient</string>
+    <string name="history">History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
